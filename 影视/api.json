@@ -1,10 +1,10 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "公众号｜四次元分享",
+            "name": "豆瓣",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
